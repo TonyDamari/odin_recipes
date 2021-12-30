@@ -1,0 +1,35 @@
+body{
+    background-color: #f9f9f9;
+}
+
+h1{
+    color: #333;
+    font-size: 40px;
+}
+
+h2{
+    color: steelblue;
+    font-size: 24px;
+}
+
+h3{
+    color: darkcyan;
+}
+
+p{
+    color: #444;
+}
+
+ul{
+    background-color: rgba(235, 255, 255, 0.705);
+}
+
+li{
+    color: #777;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    
+}
